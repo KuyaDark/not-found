@@ -9,7 +9,7 @@ function App() {
         baseIntensity={0.2}
         hoverIntensity={0.5}
         enableHover={true}
-        fontSize={120} // will be overridden responsively in CSS
+        fontSize={120}
         color="#fff"
       >
         404
